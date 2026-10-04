@@ -1,0 +1,6 @@
+{
+  "name": "Thank You For Being My Person",
+  "description": "An emotional, interactive digital love letter and personal romantic keepsake.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
